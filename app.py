@@ -58,7 +58,7 @@ st.markdown(
     }
     </style>
     <div class="name">
-        Aplikasi ini dibuat oleh: Christofell (NIM: 2021230028)
+        Aplikasi ini dibuat oleh: Aldy Alfredo Sipayung (NIM: 2021230065)
     </div>
     """, unsafe_allow_html=True)
 
